@@ -1,1 +1,1 @@
-print("Hi This is Cinmoy Das Shubra from Cuet")
+print("Hi This is Cinmoy Das Shubra from CUET")
